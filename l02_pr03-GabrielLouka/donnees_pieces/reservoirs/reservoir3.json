@@ -1,0 +1,9 @@
+[
+  {
+    "nom": "Piscine",
+    "hauteur": 25.0,
+    "masse": 9000.0,
+    "prix": 13000.00,
+    "capacite": 6480.0
+  }
+]

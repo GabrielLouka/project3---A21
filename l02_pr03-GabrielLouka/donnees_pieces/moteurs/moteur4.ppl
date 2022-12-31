@@ -1,0 +1,10 @@
+# Moteur conçu par le Poly Propulsion Lab (PPL)
+nom=La Puissance
+
+# Propriétés générales
+hauteur=12.0
+masse=15000.0
+prix=39000.00
+
+# Propriétés du moteur
+impulsion specifique=295

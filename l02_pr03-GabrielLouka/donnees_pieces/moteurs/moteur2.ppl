@@ -1,0 +1,11 @@
+# Moteur conçu par le Poly Propulsion Lab (PPL)
+nom=Civic VTEC
+
+# Propriétés générales
+hauteur=2.0
+masse=3000.0
+prix=2968.00
+
+# Propriétés du moteur
+impulsion specifique=205
+

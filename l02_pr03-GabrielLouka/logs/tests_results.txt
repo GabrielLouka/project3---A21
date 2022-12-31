@@ -1,0 +1,28 @@
+test_comparer_fusee (__main__.TestAssemblage) ... ok
+test_corps_celestes_accessibles (__main__.TestAssemblage) ... ok
+test_creer_capsules (__main__.TestAssemblage) ... ok
+test_creer_moteurs (__main__.TestAssemblage) ... ok
+test_creer_reservoirs (__main__.TestAssemblage) ... ok
+test_charger_capsules_df (__main__.TestFichiersPieces) ... ok
+test_charger_moteurs_df_1 (__main__.TestFichiersPieces) ... ok
+test_charger_moteurs_df_2 (__main__.TestFichiersPieces) ... ok
+test_charger_reservoirs_df (__main__.TestFichiersPieces) ... ok
+test_filtrer_moteurs (__main__.TestFichiersPieces) ... ok
+test_filtrer_moteurs_vide (__main__.TestFichiersPieces) ... ok
+test_fusee_attribut_capsule (__main__.TestFusee) ... ok
+test_fusee_attribut_moteur (__main__.TestFusee) ... ok
+test_fusee_attribut_nom (__main__.TestFusee) ... ok
+test_fusee_attribut_reservoir (__main__.TestFusee) ... ok
+test_fusee_deltaV (__main__.TestFusee) ... ok
+test_fusee_hauteur (__main__.TestFusee) ... ok
+test_fusee_masse (__main__.TestFusee) ... ok
+test_fusee_prix (__main__.TestFusee) ... ok
+test_fusee_str (__main__.TestFusee) ... ok
+test_reservoir_masse_rempli (__main__.TestFusee) ... ok
+test_fusee_constructeur_existe (__main__.TestFuseeConstructeur) ... ok
+test_main (__main__.TestMain) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.745s
+
+OK

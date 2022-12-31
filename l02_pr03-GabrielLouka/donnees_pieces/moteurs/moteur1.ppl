@@ -1,0 +1,10 @@
+# Moteur conçu par le Poly Propulsion Lab (PPL)
+nom=Tondeuse
+
+# Propriétés générales
+hauteur=0.5
+masse=20.0
+prix=110.00
+
+# Propriétés du moteur
+impulsion specifique=80

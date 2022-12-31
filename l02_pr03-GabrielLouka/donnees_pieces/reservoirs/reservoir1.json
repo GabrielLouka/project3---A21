@@ -1,0 +1,9 @@
+[
+  {
+    "nom": "Bain Magique",
+    "hauteur": 1.0,
+    "masse": 500.0,
+    "prix": 800.00,
+    "capacite": 360.0
+  }
+]
